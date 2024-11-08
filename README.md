@@ -4,7 +4,7 @@ This "Hello World" project is helping me as a software engineer to work on my sk
 
 This project was created to explore the development process from setting up a development environment to publishing a project on GitHub. The project also shows why the importance of clear documentation and code walkthroughs, preparing me to be able to show my work in a professional setting.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/38061d95b133480c962d525def91e963?sid=eece40f4-d510-4e46-aa69-ad9a674bf28d)
 
 # Development Environment
 
